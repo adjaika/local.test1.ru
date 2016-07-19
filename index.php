@@ -1,2 +1,2 @@
 <?
-echo 'version 1.3'; // program version
+echo 'version 1.2'; // program version
